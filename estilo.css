@@ -1,0 +1,47 @@
+body{
+	background-color: black;
+	text-align: center;
+	font-family: Constantia; 
+}
+h1{
+	background-color: black;
+	font-size: 50pt;
+	color: red;
+	margin:.5%;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", sans-serif;
+	font-style:italic;
+}
+.imagen{
+	font-size: 25pt;
+	color: red;
+	margin: 2.5em;
+	display: inline-block;
+}
+.home{
+	padding-right: 10px;
+    font-weight: 700;
+    color: #383638;
+    font-size: 20pt;
+    text-decoration: none;
+}
+.acerca{
+	padding-right: 10px;
+    font-weight: 700;
+    color: #383638;
+    font-size: 20pt;
+    text-decoration: none;
+}
+.contacto{
+	padding-right: 10px;
+    font-weight: 700;
+    color: #383638;
+    font-size: 20pt;
+    text-decoration: none;
+}
+.ig{
+	text-align: left;
+	width:38px;
+	height:33px;
+	border-radius: 100px; 
+}
